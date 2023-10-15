@@ -1,0 +1,1 @@
+this is first test from ec2 instance
